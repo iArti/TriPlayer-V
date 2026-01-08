@@ -1,4 +1,6 @@
 #include <cstring>
+#include <algorithm>
+#include <cctype>
 #include "utils/nx/Button.hpp"
 
 namespace NX {
