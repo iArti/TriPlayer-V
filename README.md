@@ -1,4 +1,5 @@
-# TriPlayer
+# TriPlayer-V
+*(fork with support for Atmosphere 1.10+)*
 
 TriPlayer is a feature-rich audio player for the Nintendo Switch. It is able to play music in the background, including when playing games or on the HOME menu. TriPlayer requires a console capable of running Atmosphere. It gained it's name as it consists of **three** separate components, and initially its ability to play MP3 files.
 
